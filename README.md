@@ -23,3 +23,5 @@ A simple and intuitive task management application that helps you stay organized
 **Deployment:**
 - Vercel (Frontend)
 - Firebase Hosting / Functions (Backend)
+
+Live link: https://task-manager-18wd7hkfc-vibhooshna-dms-projects.vercel.app/
