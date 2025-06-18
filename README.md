@@ -85,11 +85,4 @@ TaskManager/
 - **Auth:** Clerk (supports social login)
 - **Deployment:** Render (Backend) & Vercel (Frontend)
 
-🚀 Live Demo
-You can try out the live app here:
-👉 https://task-manager-dun-five-99.vercel.app/
-
-📢 Note
-This project is a part of a hackathon run by
-https://www.katomaran.com
 
